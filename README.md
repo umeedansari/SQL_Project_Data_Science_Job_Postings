@@ -30,21 +30,35 @@ Through this project, I gained hands-on experience with SQL and learned how to:
 ## Insights
 Here are some key insights I gained from my analysis:
 
-1.Top-Paying Jobs
-- Top-paying data analyst jobs offer salaries ranging from $184,000 to $650,000.
-- Senior roles, such as Senior Data Analyst or Lead Data Analyst, are often associated with high salaries.
+1.Top-Paying Jobs 
+
+- The highest paying job is "Research Data Analyst" at Calbright College with an average salary of $99,747.  
+- Companies like Ad Hoc and Get It Recruit offer multiple high-paying roles in this field, demonstrating their strong presence in the market.  
+
+
+![Screenshot 2025-02-26 104931](https://github.com/user-attachments/assets/b03b70eb-3221-469b-8c46-7e5b089908cc)
+
 
 2.In-Demand Skills
 - SQL is the most in-demand skill, required by 7291 job postings.
 - Python, Excel, Tableau, and Power BI are also highly demanded skills.
 
+![Screenshot 2025-02-26 110159](https://github.com/user-attachments/assets/d86d11da-58d7-4023-95df-195b9b739cee)
+
+
 3.Skills and Salaries
-- Specialized skills like SVN, Solidity, and PySpark are associated with higher average salaries (>$150,000).
+- Specialized skills like Bitbucket, Solidity, and PySpark are associated with higher average salaries (>$150,000).
 - SQL, Python, and R are associated with average salaries ranging from $100,000 to $120,000.
+
+![Screenshot 2025-02-26 110433](https://github.com/user-attachments/assets/719433f2-8fd4-4a0d-a5a3-f3fcf07d918e)
+
 
 4.Optimal Skills
 - SQL is an optimal skill for data analysts to learn, due to its high demand, critical role in data analysis, and association with high-paying jobs.
 - Learning SQL, Python, and data visualization tools can enhance a data analyst's career prospects and earning potential.
+
+![Screenshot 2025-02-26 110713](https://github.com/user-attachments/assets/0b398f33-3d7f-46ef-af63-6b62ce08f376)
+
 
 5.Industry Trends
 - Cloud computing, big data, and machine learning are emerging trends in the data analyst job market.
