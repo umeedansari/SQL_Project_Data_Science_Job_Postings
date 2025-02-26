@@ -29,7 +29,7 @@ WITH top_paying_roles as
     		salary_year_avg is not NULL
 		ORDER BY 
 			salary_year_avg desc
-		limit 10 ;
+		limit 10 
 	)
 SELECT 
     top.*,
